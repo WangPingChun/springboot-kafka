@@ -12,14 +12,6 @@
     <packaging>pom</packaging>
 
     <name>kafka-example</name>
-    <description>kafka example</description>
-
-    <dependencyManagement>
-        <dependencies>
-
-        </dependencies>
-    </dependencyManagement>
-
     <build>
         <plugins>
             <plugin>
